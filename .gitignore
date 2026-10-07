@@ -1,0 +1,23 @@
+# Build output
+bin/
+obj/
+[Dd]ebug/
+[Rr]elease/
+publish/
+
+# IDE
+.vs/
+.vscode/
+.idea/
+*.user
+*.suo
+*.rsuser
+
+# Runtime data
+*.db
+*.db-shm
+*.db-wal
+
+# Local config overrides
+appsettings.*.json
+.env
